@@ -31,7 +31,7 @@
 
 | S-No. | Projects                            |
 |-------|-------------------------------------|
-| 01.   | Bruteforce Technique         |
+| 01.   | Bruteforces Technique         |
 | 02.   | Network Sniffer                     |
 
 ## 📚 How to Contribute? 🤝
